@@ -86,6 +86,8 @@ a {
 
 hr {
   border-top: dotted 6px rgb(209, 209, 209);
+  border-bottom: none;
+  border-left: none;
   width: 5%;
   margin: 25px auto 25px auto;
 }
